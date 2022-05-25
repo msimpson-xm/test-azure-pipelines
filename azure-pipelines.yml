@@ -5,7 +5,6 @@
 
 trigger:
 - main
-- master
 
 pool:
   vmImage: ubuntu-latest
@@ -17,4 +16,4 @@ steps:
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line scripstsss'
+  displayName: 'Run a multi-lineasdf scriasdfpsßt'
